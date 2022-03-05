@@ -1,0 +1,13 @@
+/*comando de criação de tabelas*/
+
+CREATE TABLE pessoas (
+    id INT NOT NULL PRIMARY KEY AUTOINCREMENT,
+    nome VARCHAR(30) NOT NULL,
+    nascimento DATE
+)
+
+/*comando de inserção de dados*/
+
+INSERT INTO pessoas (nome, nascimento) VALUES ('Lincon', '1992 08 04')
+INSERT INTO pessoas (nome, nascimento) VALUES ('Juliany', '1994 08 09')
+INSERT INTO pessoas (nome, nascimento) VALUES ('Lucas', '1996 03 08')
