@@ -1,0 +1,9 @@
+www.google.com.br
+8.8.8.8
+www.sleepeasy.com.br
+4.4.4.4
+192.168.0.1
+192.168.15.9
+192.168.15.254
+www.mjargus.com
+www.classmark.com.br
